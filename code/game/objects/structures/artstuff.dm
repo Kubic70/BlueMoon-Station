@@ -250,8 +250,6 @@
 
 	base_pixel_x = -4
 	base_pixel_y = 4
-	bound_height = 24
-	bound_width = 36
 
 /obj/item/canvas/thirtysix_twentyfour/Initialize(mapload)
 	. = ..()
@@ -275,8 +273,6 @@
 
 	base_pixel_x = -8
 	base_pixel_y = 4
-	bound_height = 27
-	bound_width = 45
 
 /obj/item/canvas/fortyfive_twentyseven/Initialize(mapload)
 	. = ..()
@@ -329,12 +325,6 @@
 	result_path = /obj/structure/sign/painting/large
 	pixel_shift = 0 //See [/obj/structure/sign/painting/large/proc/finalize_size]
 	custom_price = PRICE_NORMAL * 1.25
-	bound_height = 12
-	bound_width = 47
-	bound_x = 14
-	bound_y = 8
-	base_pixel_x = 0
-	base_pixel_y = 0
 
 /obj/item/wallframe/painting/large/try_build(turf/on_wall, mob/user)
 	. = ..()
