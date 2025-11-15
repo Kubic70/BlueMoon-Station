@@ -320,11 +320,15 @@
 	name = "large painting frame"
 	desc = "The perfect showcase for your favorite deathtrap memories. Make sure you have enough space to mount this one to the wall."
 	custom_materials = list(/datum/material/wood = 2000*2)
-	icon = 'icons/obj/art/artstuff_64x64.dmi'
+	icon = 'icons/obj/decals.dmi'
 	icon_state = "frame-empty"
 	result_path = /obj/structure/sign/painting/large
-	pixel_shift = 0 //See [/obj/structure/sign/painting/large/proc/finalize_size]
+	pixel_shift = 0
 	custom_price = PRICE_NORMAL * 1.25
+
+/obj/item/wallframe/painting/large/Initialize(mapload)
+	. = ..()
+	icon = 'icons/obj/art/artstuff_64x64.dmi'
 
 /obj/item/wallframe/painting/large/try_build(turf/on_wall, mob/user)
 	. = ..()

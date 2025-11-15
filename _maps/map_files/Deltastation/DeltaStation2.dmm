@@ -97836,6 +97836,9 @@
 /area/service/chapel/office)
 "oor" = (
 /obj/item/kirbyplants/random,
+/obj/machinery/status_display/evac{
+	pixel_y = -32
+	},
 /turf/open/floor/plasteel/grimy,
 /area/service/library)
 "ooL" = (
@@ -166027,7 +166030,7 @@ iFc
 sQF
 iFc
 oor
-tHr
+uhj
 nfc
 eJH
 lhi
