@@ -114,10 +114,10 @@
 	icon_living = "Goliath"
 	icon_aggro = "Goliath_alert"
 	icon_dead = "Goliath_dead"
-	maxHealth = 500 //400 баф в замен жизни
-	health = 500 //400 баф в замен жизни
+	maxHealth = 800
+	health = 800
 	speed = 4
-	ranged_cooldown_time = 60 //80 баф в замен жизни
+	ranged_cooldown_time = 40
 	pre_attack_icon = "Goliath_preattack"
 	throw_message = "does nothing to the rocky hide of the"
 	loot = list(/obj/item/stack/sheet/animalhide/goliath_hide) //A throwback to the asteroid days
