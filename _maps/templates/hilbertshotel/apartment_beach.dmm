@@ -14,10 +14,12 @@
 /turf/open/floor/carpet/royalblue,
 /area/hilbertshotel)
 "cH" = (
-/obj/machinery/light/directional/east{
-	invisibility = 60
+/obj/effect/light_emitter/fake_outdoors{
+	set_luminosity = 8
 	},
-/turf/open/floor/plating/beach/water,
+/turf/open/floor/plating/beach/coastline_t/sandwater_inner{
+	dir = 4
+	},
 /area/hilbertshotel)
 "cR" = (
 /obj/machinery/door/morgue,
@@ -119,14 +121,6 @@
 	},
 /turf/open/floor/plasteel/white,
 /area/hilbertshotel)
-"kU" = (
-/obj/machinery/light/directional/west{
-	invisibility = 60
-	},
-/turf/open/floor/plating/beach/coastline_t{
-	dir = 5
-	},
-/area/hilbertshotel)
 "li" = (
 /obj/effect/turf_decal/siding/wood/thin{
 	dir = 8
@@ -134,8 +128,8 @@
 /turf/open/floor/plasteel/white,
 /area/hilbertshotel)
 "lK" = (
-/obj/machinery/light/directional/west{
-	invisibility = 60
+/obj/effect/light_emitter/fake_outdoors{
+	set_luminosity = 8
 	},
 /turf/open/floor/plating/beach/coastline_t/sandwater_inner{
 	dir = 8
@@ -167,9 +161,6 @@
 	},
 /area/hilbertshotel)
 "oK" = (
-/obj/structure/curtain{
-	pixel_y = 32
-	},
 /obj/structure/bed/double,
 /obj/item/bedsheet/black/double,
 /turf/open/floor/carpet/red,
@@ -204,16 +195,7 @@
 	},
 /turf/open/floor/wood/wood_large,
 /area/hilbertshotel)
-"xW" = (
-/obj/machinery/light/directional/west{
-	invisibility = 60
-	},
-/turf/open/floor/plating/beach/water,
-/area/hilbertshotel)
 "ya" = (
-/obj/structure/curtain{
-	pixel_y = 32
-	},
 /obj/structure/table/wood,
 /obj/item/reagent_containers/food/condiment/peppermill{
 	pixel_x = 6
@@ -243,9 +225,6 @@
 /turf/open/floor/holofloor/wood,
 /area/hilbertshotel)
 "Ce" = (
-/obj/structure/curtain{
-	pixel_y = 32
-	},
 /obj/structure/dresser,
 /turf/open/floor/carpet/red,
 /area/hilbertshotel)
@@ -265,12 +244,10 @@
 /turf/open/floor/plating/beach/sand,
 /area/hilbertshotel)
 "Ec" = (
-/obj/machinery/light/directional/east{
-	invisibility = 60
+/obj/effect/light_emitter/fake_outdoors{
+	set_luminosity = 8
 	},
-/turf/open/floor/plating/beach/coastline_t{
-	dir = 1
-	},
+/turf/open/floor/plating/beach/water,
 /area/hilbertshotel)
 "Et" = (
 /obj/structure/table,
@@ -282,6 +259,7 @@
 /area/hilbertshotel)
 "FI" = (
 /obj/effect/spawner/structure/window/reinforced,
+/obj/structure/curtain,
 /turf/open/floor/plating,
 /area/hilbertshotel)
 "Gq" = (
@@ -306,9 +284,6 @@
 /turf/open/floor/wood/wood_large,
 /area/hilbertshotel)
 "Hw" = (
-/obj/structure/curtain{
-	pixel_y = 32
-	},
 /obj/structure/chair/wood{
 	dir = 4
 	},
@@ -330,10 +305,12 @@
 /turf/open/floor/catwalk_floor,
 /area/hilbertshotel)
 "OM" = (
-/obj/machinery/light/directional/north{
-	invisibility = 60
+/obj/effect/light_emitter/fake_outdoors{
+	set_luminosity = 8
 	},
-/turf/open/floor/plating/beach/water,
+/turf/open/floor/plating/beach/coastline_t{
+	dir = 1
+	},
 /area/hilbertshotel)
 "Pb" = (
 /turf/closed/indestructible/hoteldoor{
@@ -395,9 +372,6 @@
 /obj/structure/chair/wood{
 	dir = 8
 	},
-/obj/structure/curtain{
-	pixel_y = 32
-	},
 /turf/open/floor/holofloor/wood,
 /area/hilbertshotel)
 "TP" = (
@@ -440,9 +414,6 @@
 /turf/open/floor/holofloor/wood,
 /area/hilbertshotel)
 "XO" = (
-/obj/structure/curtain{
-	pixel_y = 32
-	},
 /obj/structure/table/wood,
 /obj/item/flashlight/lamp/green{
 	pixel_y = 2
@@ -452,9 +423,6 @@
 "Ys" = (
 /obj/structure/chair/sofa/right{
 	dir = 1
-	},
-/obj/machinery/light/directional/east{
-	invisibility = 60
 	},
 /turf/open/floor/plating/beach/sand,
 /area/hilbertshotel)
@@ -529,13 +497,13 @@ dP
 (3,1,1) = {"
 dP
 is
-OM
 Dh
-xW
-xW
 Dh
-kU
-lK
+Dh
+Dh
+Dh
+TP
+AL
 PX
 YR
 ri
@@ -571,10 +539,10 @@ dP
 jK
 Dh
 Dh
+Ec
 Dh
 Dh
-Dh
-Dh
+Ec
 bz
 PX
 Sc
@@ -589,7 +557,7 @@ dP
 (6,1,1) = {"
 dP
 jK
-OM
+Dh
 Dh
 Dh
 Dh
@@ -609,7 +577,7 @@ dP
 (7,1,1) = {"
 dP
 jK
-OM
+Dh
 Dh
 Dh
 Dh
@@ -631,10 +599,10 @@ dP
 jK
 Dh
 Dh
-Dh
+Ec
 Dh
 Ag
-Xe
+cH
 FI
 Hw
 XM
@@ -649,7 +617,7 @@ dP
 (9,1,1) = {"
 dP
 jK
-OM
+Dh
 Dh
 Dh
 Dh
@@ -669,7 +637,7 @@ dP
 (10,1,1) = {"
 dP
 jK
-OM
+Dh
 Dh
 Dh
 Dh
@@ -691,10 +659,10 @@ dP
 jK
 Dh
 Dh
-Dh
+Ec
 iE
 TP
-AL
+lK
 YR
 kt
 li
@@ -709,7 +677,7 @@ dP
 (12,1,1) = {"
 dP
 jK
-OM
+Dh
 Dh
 Dh
 Dh
@@ -729,7 +697,7 @@ dP
 (13,1,1) = {"
 dP
 jK
-OM
+Dh
 Dh
 Dh
 Dh
@@ -751,10 +719,10 @@ dP
 jK
 Dh
 Dh
+Ec
 Dh
 Dh
-Dh
-bz
+OM
 DB
 FI
 Ce
@@ -789,12 +757,12 @@ dP
 (16,1,1) = {"
 dP
 is
-OM
 Dh
-cH
-cH
 Dh
-Ec
+Dh
+Dh
+Dh
+bz
 Ys
 FI
 XO
