@@ -1,0 +1,3678 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"ab" = (
+/obj/machinery/pool/drain,
+/turf/open/pool{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "cobble";
+	name = "hotwater"
+	},
+/area/hilbertshotel)
+"an" = (
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 6;
+	pixel_x = -4
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -4;
+	pixel_x = 9
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -12;
+	pixel_x = -8
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"as" = (
+/obj/structure/bed/pillow_large,
+/obj/structure/bed/pillow_large{
+	pixel_x = 16;
+	pixel_y = 12
+	},
+/obj/item/fancy_pillow{
+	pixel_x = 11;
+	pixel_y = 9
+	},
+/obj/effect/light_emitter/void,
+/turf/open/floor/carpet/purple,
+/area/hilbertshotel)
+"aI" = (
+/obj/structure/bed/pillow_large,
+/obj/structure/bed/pillow_large{
+	pixel_x = 16;
+	pixel_y = 12
+	},
+/obj/structure/stone_tile/block,
+/turf/open/floor/carpet/purple,
+/area/hilbertshotel)
+"aJ" = (
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -3;
+	pixel_x = -8
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"ba" = (
+/obj/structure/stone_tile/burnt,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"be" = (
+/obj/structure/barricade/wooden/crude,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"bR" = (
+/obj/structure/flora/rock/pile{
+	icon_state = "basalt3"
+	},
+/obj/structure/spacevine,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"cf" = (
+/obj/structure/fluff/drake_statue,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"cg" = (
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -14;
+	pixel_x = -8
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -17;
+	pixel_x = 8
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 7;
+	pixel_x = -8
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -3;
+	pixel_x = 4
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 13;
+	pixel_x = 8
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"cj" = (
+/turf/open/floor/plasteel/stairs/medium{
+	dir = 4;
+	color = "#2d221a"
+	},
+/area/hilbertshotel)
+"ck" = (
+/obj/structure/bed/pillow_large{
+	pixel_x = 16;
+	pixel_y = 12
+	},
+/obj/structure/stone_tile/block,
+/obj/structure/stone_tile/block{
+	dir = 1
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 6;
+	pixel_x = 2
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 13;
+	pixel_x = -5
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -9;
+	pixel_x = -11
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -4;
+	pixel_x = 2
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 8;
+	pixel_x = -11
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -7;
+	pixel_x = 9
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -2;
+	pixel_x = -8
+	},
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"cB" = (
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 12;
+	pixel_x = -5
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -9;
+	pixel_x = -15
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"cC" = (
+/obj/structure/stone_tile/block,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"cI" = (
+/obj/structure/stone_tile/burnt{
+	dir = 4
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"cR" = (
+/obj/structure/stone_tile/block,
+/obj/structure/railing{
+	color = "#683d21";
+	dir = 1
+	},
+/obj/structure/barricade/wooden{
+	icon = 'icons/obj/objects.dmi';
+	icon_state = "barrel";
+	desc = "A large wooden barrel. You can ferment fruits and such inside it, or just use it to hold liquid.";
+	pixel_x = -3
+	},
+/obj/structure/barricade/wooden{
+	icon = 'icons/obj/objects.dmi';
+	icon_state = "barrel";
+	desc = "A large wooden barrel. You can ferment fruits and such inside it, or just use it to hold liquid.";
+	pixel_y = -6;
+	pixel_x = -15
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"cV" = (
+/obj/structure/stone_tile/block/burnt{
+	dir = 1;
+	pixel_x = -2
+	},
+/obj/structure/stone_tile/block,
+/turf/open/lava/fake,
+/area/hilbertshotel)
+"cX" = (
+/obj/structure/bed/pillow_large{
+	pixel_x = 27;
+	pixel_y = 12
+	},
+/obj/structure/stone_tile/block{
+	dir = 4;
+	pixel_x = -2
+	},
+/obj/structure/stone_tile/burnt{
+	dir = 8
+	},
+/obj/structure/stone_tile/burnt{
+	dir = 4
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 9;
+	pixel_x = 2
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 1;
+	pixel_x = -5
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -1;
+	pixel_x = 12
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 6;
+	pixel_x = 6
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -1;
+	pixel_x = 2
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 10;
+	pixel_x = -7
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -11;
+	pixel_x = -3
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -2;
+	pixel_x = -11
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -8;
+	pixel_x = 6
+	},
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"dl" = (
+/obj/structure/stone_tile/block/burnt{
+	dir = 4;
+	pixel_x = -2
+	},
+/obj/structure/barricade/wooden,
+/obj/structure/barricade/wooden,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"dp" = (
+/obj/structure/stone_tile/block{
+	dir = 8
+	},
+/obj/structure/stone_tile/burnt,
+/obj/structure/stone_tile/burnt{
+	dir = 1
+	},
+/obj/structure/dresser,
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"dD" = (
+/obj/structure/bed/pillow_large,
+/obj/structure/bed/pillow_large{
+	pixel_x = 3;
+	pixel_y = 12
+	},
+/obj/item/fancy_pillow{
+	pixel_x = -7;
+	pixel_y = -7
+	},
+/obj/structure/stone_tile/block,
+/turf/open/floor/carpet/purple,
+/area/hilbertshotel)
+"dE" = (
+/obj/structure/stone_tile/block,
+/obj/structure/table/wood,
+/obj/structure/decorative{
+	icon = 'modular_bluemoon/krashly/icons/obj/weapons/weapons.dmi';
+	icon_state = "tribal_spear0";
+	name = "tribal spear";
+	desc = "A haphazardly-constructed yet still deadly weapon of ancient design."
+	},
+/obj/structure/decorative{
+	icon = 'modular_bluemoon/krashly/icons/obj/weapons/weapons.dmi';
+	icon_state = "tribal_spear0";
+	name = "tribal spear";
+	desc = "A haphazardly-constructed yet still deadly weapon of ancient design.";
+	pixel_x = -7
+	},
+/obj/structure/decorative{
+	icon = 'modular_bluemoon/krashly/icons/obj/weapons/weapons.dmi';
+	icon_state = "tribal_spear0";
+	name = "tribal spear";
+	desc = "A haphazardly-constructed yet still deadly weapon of ancient design.";
+	pixel_x = 6
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"et" = (
+/obj/structure/bed/pillow_large{
+	pixel_x = 16;
+	pixel_y = 12
+	},
+/obj/structure/bed/pillow_large,
+/obj/structure/bed/pillow_large{
+	pixel_y = 14;
+	pixel_x = -5
+	},
+/obj/item/fancy_pillow{
+	pixel_x = -3;
+	pixel_y = 7
+	},
+/turf/open/floor/mineral/plasma,
+/area/hilbertshotel)
+"eO" = (
+/obj/structure/railing/corner/end{
+	dir = 4;
+	color = "#683d21";
+	pixel_y = 28
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"fg" = (
+/obj/structure/stone_tile/block{
+	dir = 4;
+	pixel_x = -2
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"fn" = (
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 8;
+	pixel_x = 1
+	},
+/turf/open/floor/plasteel/stairs/medium{
+	dir = 8;
+	color = "#2d221a"
+	},
+/area/hilbertshotel)
+"fQ" = (
+/obj/structure/stone_tile/block,
+/obj/structure/stone_tile/burnt{
+	dir = 1
+	},
+/obj/structure/table/wood/fancy,
+/obj/item/export/bottle/wine{
+	pixel_y = 14;
+	pixel_x = 4
+	},
+/obj/item/reagent_containers/food/drinks/drinkingglass{
+	pixel_x = -6;
+	pixel_y = 13
+	},
+/obj/item/reagent_containers/food/drinks/drinkingglass{
+	pixel_x = -6;
+	pixel_y = 2
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"gv" = (
+/obj/structure/stone_tile/burnt{
+	dir = 4
+	},
+/obj/structure/railing/corner{
+	color = "#683d21"
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"gJ" = (
+/obj/structure/stone_tile/block{
+	dir = 1
+	},
+/obj/structure/stone_tile/burnt{
+	dir = 8
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"hi" = (
+/obj/structure/stone_tile/block{
+	dir = 1
+	},
+/obj/structure/stone_tile/burnt{
+	dir = 8
+	},
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"hj" = (
+/obj/machinery/pool/controller{
+	temperature = 4
+	},
+/obj/structure/stone_tile/block{
+	dir = 8
+	},
+/obj/structure/railing{
+	color = "#683d21";
+	dir = 6
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"ia" = (
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_x = 5;
+	pixel_y = 6
+	},
+/obj/structure/railing/corner/end{
+	dir = 4;
+	color = "#683d21"
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"ie" = (
+/obj/structure/stone_tile/block{
+	dir = 1
+	},
+/obj/structure/stone_tile/burnt,
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"il" = (
+/obj/effect/light_emitter{
+	set_cap = 0.5;
+	light_color = #FA9632;
+	set_luminosity = 4
+	},
+/obj/structure/stone_tile/block,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"iA" = (
+/obj/structure/stone_tile/block,
+/obj/structure/railing{
+	color = "#683d21";
+	dir = 1
+	},
+/obj/structure/ore_box,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"iH" = (
+/obj/structure/table/wood,
+/obj/item/spear{
+	dir = 9;
+	pixel_x = -1;
+	pixel_y = 19;
+	color = "#ffaa00";
+	name = "dull gold spear";
+	desc = "It's generally considered impolite to stab a dragoness in her lair."
+	},
+/obj/effect/turf_decal/siding/dark,
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"jh" = (
+/obj/structure/bed/pillow_large,
+/obj/structure/bed/pillow_large{
+	pixel_x = 16;
+	pixel_y = 12
+	},
+/obj/item/fancy_pillow{
+	pixel_y = 9
+	},
+/obj/structure/stone_tile/block,
+/turf/open/floor/carpet/purple,
+/area/hilbertshotel)
+"ju" = (
+/turf/closed/indestructible/rock,
+/area/hilbertshotel)
+"kw" = (
+/obj/structure/stone_tile/block,
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_x = 5;
+	pixel_y = 6
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"kP" = (
+/turf/closed/indestructible/hoteldoor{
+	icon_state = "door_closed";
+	icon = 'icons/obj/doors/puzzledoor/default.dmi'
+	},
+/area/hilbertshotel)
+"li" = (
+/obj/structure/stone_tile/block,
+/obj/structure/chair/pew/right{
+	dir = 4
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"lY" = (
+/obj/structure/stone_tile/block,
+/obj/structure/railing{
+	color = "#683d21";
+	dir = 1
+	},
+/obj/structure/barricade/wooden{
+	icon = 'icons/obj/objects.dmi';
+	icon_state = "barrel";
+	desc = "A large wooden barrel. You can ferment fruits and such inside it, or just use it to hold liquid.";
+	pixel_y = -2;
+	pixel_x = 2
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"mC" = (
+/obj/structure/railing/corner/end{
+	dir = 8;
+	color = "#683d21"
+	},
+/obj/structure/spacevine,
+/obj/structure/flora/junglebush/c,
+/turf/open/floor/plating/beach/water,
+/area/hilbertshotel)
+"mP" = (
+/obj/structure/spacevine,
+/obj/structure/flora/junglebush/c,
+/obj/structure/flora/rock/pile,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"mT" = (
+/obj/structure/bed/pillow_large{
+	pixel_x = 16;
+	pixel_y = 12
+	},
+/obj/structure/stone_tile/burnt{
+	dir = 4
+	},
+/obj/structure/stone_tile/surrounding_tile{
+	dir = 1
+	},
+/obj/structure/stone_tile/burnt,
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 2;
+	pixel_x = -12
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -6;
+	pixel_x = 8
+	},
+/turf/open/floor/carpet/purple,
+/area/hilbertshotel)
+"nb" = (
+/obj/structure/stone_tile/block{
+	dir = 1
+	},
+/obj/structure/stone_tile/burnt,
+/obj/structure/railing{
+	color = "#683d21";
+	dir = 10
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"nm" = (
+/obj/structure/stone_tile/block,
+/obj/structure/stone_tile/burnt{
+	dir = 4
+	},
+/obj/structure/table/wood/fancy,
+/obj/item/reagent_containers/food/snacks/grown/apple{
+	pixel_y = 6;
+	pixel_x = -1
+	},
+/obj/item/reagent_containers/food/snacks/grown/apple{
+	pixel_x = 5;
+	pixel_y = 2
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"nA" = (
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 8;
+	pixel_x = -5
+	},
+/turf/open/floor/plasteel/stairs/medium{
+	color = "#2d221a";
+	dir = 1
+	},
+/area/hilbertshotel)
+"nN" = (
+/obj/structure/stone_tile/block,
+/obj/structure/railing{
+	color = "#683d21";
+	dir = 1
+	},
+/obj/structure/table/wood,
+/obj/item/reagent_containers/glass/bucket/wood{
+	pixel_y = 6;
+	pixel_x = -7
+	},
+/obj/item/reagent_containers/rag/towel{
+	pixel_x = 4
+	},
+/obj/item/reagent_containers/rag/towel{
+	pixel_y = 5;
+	pixel_x = 4
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"nO" = (
+/obj/structure/table/wood,
+/obj/effect/turf_decal/siding/dark{
+	dir = 1
+	},
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"oa" = (
+/turf/open/floor/plasteel/stairs/medium{
+	color = "#2d221a"
+	},
+/area/hilbertshotel)
+"ov" = (
+/obj/structure/stone_tile/block,
+/obj/structure/stone_tile/burnt{
+	dir = 1
+	},
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"oy" = (
+/obj/structure/stone_tile/block,
+/obj/structure/railing{
+	color = "#683d21";
+	dir = 1
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"oW" = (
+/obj/structure/stone_tile/slab/cracked,
+/obj/effect/turf_decal/siding/wideplating{
+	dir = 5
+	},
+/obj/structure/railing{
+	color = "#683d21";
+	dir = 5
+	},
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"pe" = (
+/obj/structure/stone_tile/block{
+	dir = 1
+	},
+/obj/structure/railing{
+	color = "#683d21"
+	},
+/obj/structure/bedsheetbin/towel,
+/obj/structure/table/wood,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"pm" = (
+/obj/structure/bed/pillow_large{
+	pixel_y = 12
+	},
+/obj/structure/bed/pillow_large,
+/turf/open/floor/mineral/plasma,
+/area/hilbertshotel)
+"pJ" = (
+/obj/structure/spacevine,
+/obj/structure/flora/junglebush/c,
+/turf/open/floor/plating/beach/water,
+/area/hilbertshotel)
+"pN" = (
+/obj/structure/flora/rock/pile{
+	icon_state = "basalt3"
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"pQ" = (
+/obj/structure/table/reinforced/rglass,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"pT" = (
+/obj/structure/stone_tile/block{
+	dir = 4;
+	pixel_x = -2
+	},
+/obj/structure/stone_tile/block{
+	dir = 8
+	},
+/turf/open/lava/fake,
+/area/hilbertshotel)
+"pZ" = (
+/obj/structure/bed/pillow_large,
+/obj/structure/bed/pillow_large{
+	pixel_x = 16;
+	pixel_y = 12
+	},
+/obj/item/fancy_pillow{
+	pixel_y = -2;
+	pixel_x = 4
+	},
+/obj/structure/stone_tile/block{
+	dir = 1
+	},
+/turf/open/floor/carpet/purple,
+/area/hilbertshotel)
+"qf" = (
+/obj/structure/stone_tile/block/burnt{
+	dir = 4;
+	pixel_x = -2
+	},
+/obj/structure/stone_tile/block{
+	dir = 8
+	},
+/obj/structure/barricade/wooden,
+/turf/open/lava/fake,
+/area/hilbertshotel)
+"qt" = (
+/obj/effect/light_emitter{
+	set_cap = 0.5;
+	light_color = #FA9632;
+	set_luminosity = 4
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"qH" = (
+/obj/structure/flora/bush,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"rd" = (
+/obj/structure/stone_tile/block,
+/obj/structure/table/wood,
+/obj/structure/decorative{
+	icon = 'icons/obj/shields.dmi';
+	icon_state = "buckler";
+	name = "wooden buckler";
+	desc = "A medieval wooden buckler.";
+	pixel_y = -3;
+	pixel_x = -2
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/shields.dmi';
+	icon_state = "buckler";
+	name = "wooden buckler";
+	desc = "A medieval wooden buckler.";
+	pixel_x = 10
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/shields.dmi';
+	icon_state = "buckler";
+	name = "wooden buckler";
+	desc = "A medieval wooden buckler.";
+	pixel_x = -5;
+	pixel_y = 7
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"rE" = (
+/obj/effect/light_emitter{
+	set_cap = 0.5;
+	light_color = #FA9632;
+	set_luminosity = 4
+	},
+/obj/structure/stone_tile/slab,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"rG" = (
+/obj/structure/stone_tile/burnt{
+	dir = 8
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"rN" = (
+/obj/structure/stone_tile/burnt{
+	dir = 1
+	},
+/obj/structure/railing/corner{
+	dir = 8;
+	color = "#683d21"
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"rP" = (
+/obj/structure/stone_tile/surrounding_tile,
+/obj/structure/stone_tile/burnt{
+	dir = 8
+	},
+/obj/structure/flora/rock/pile{
+	icon_state = "basalt3";
+	pixel_x = -6;
+	pixel_y = 13
+	},
+/obj/structure/flora/rock/pile,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"rT" = (
+/obj/structure/flora/rock/pile{
+	icon_state = "basalt3";
+	pixel_x = -8;
+	pixel_y = 8
+	},
+/obj/structure/flora/junglebush/c,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"sj" = (
+/obj/structure/stone_tile/block/burnt{
+	dir = 4;
+	pixel_x = -2
+	},
+/obj/structure/stone_tile/burnt{
+	dir = 4
+	},
+/obj/structure/stone_tile/burnt{
+	dir = 8
+	},
+/turf/open/lava/fake,
+/area/hilbertshotel)
+"sJ" = (
+/obj/structure/stone_tile/block,
+/obj/machinery/vending/boozeomat{
+	shut_up = 1;
+	layer = 2.95
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"sN" = (
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 3;
+	pixel_x = 12
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -12;
+	pixel_x = 8
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -6;
+	pixel_x = 4
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 3;
+	pixel_x = -11
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -5;
+	pixel_x = -12
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"sV" = (
+/obj/structure/spacevine{
+	pixel_y = -10;
+	layer = 50
+	},
+/turf/closed/indestructible/riveted/boss,
+/area/hilbertshotel)
+"tf" = (
+/obj/structure/stone_tile/block,
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -3;
+	pixel_x = 1
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"tv" = (
+/obj/structure/stone_tile/block/burnt{
+	dir = 4;
+	pixel_x = -2
+	},
+/obj/structure/stone_tile/block{
+	dir = 8
+	},
+/turf/open/lava/fake,
+/area/hilbertshotel)
+"tJ" = (
+/obj/effect/turf_decal/siding/yellow{
+	dir = 1
+	},
+/obj/structure/bed/matress,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"tU" = (
+/turf/open/floor/plating/beach/water,
+/area/hilbertshotel)
+"wi" = (
+/obj/structure/stone_tile/slab/cracked,
+/obj/effect/turf_decal/siding/wideplating{
+	dir = 9
+	},
+/obj/structure/railing{
+	color = "#683d21";
+	dir = 9
+	},
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"wD" = (
+/obj/structure/curtain{
+	color = "#707070"
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"xi" = (
+/obj/machinery/pool/filter{
+	pixel_y = -17
+	},
+/obj/structure/stone_tile/burnt{
+	dir = 1
+	},
+/obj/structure/stone_tile/burnt,
+/obj/structure/stone_tile/burnt{
+	dir = 4
+	},
+/obj/structure/railing{
+	color = "#683d21";
+	dir = 10
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"yb" = (
+/obj/structure/pool/ladder{
+	pixel_x = -4;
+	invisibility = 60
+	},
+/turf/open/pool{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "cobble";
+	name = "hotwater"
+	},
+/area/hilbertshotel)
+"yo" = (
+/obj/structure/stone_tile/surrounding_tile,
+/obj/structure/flora/rock/pile{
+	icon_state = "basalt3";
+	pixel_x = -6;
+	pixel_y = 8
+	},
+/obj/structure/flora/rock/pile,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"yp" = (
+/obj/structure/flora/tree/jungle/small,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"yJ" = (
+/obj/structure/pool/ladder{
+	dir = 8;
+	pixel_x = 4;
+	invisibility = 60
+	},
+/turf/open/pool{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "cobble";
+	name = "hotwater"
+	},
+/area/hilbertshotel)
+"yV" = (
+/obj/structure/flora/rock{
+	pixel_x = 9;
+	pixel_y = -5
+	},
+/obj/structure/spacevine{
+	pixel_y = -16
+	},
+/turf/open/floor/grass/fakebasalt{
+	color = "#000000"
+	},
+/area/hilbertshotel)
+"zy" = (
+/obj/structure/flora/junglebush/b,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"zC" = (
+/obj/structure/stone_tile/surrounding_tile{
+	dir = 1
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"zF" = (
+/obj/structure/stone_tile/block{
+	dir = 4;
+	pixel_x = -2
+	},
+/obj/structure/stone_tile/burnt{
+	dir = 8
+	},
+/obj/structure/stone_tile/burnt{
+	dir = 4
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 6;
+	pixel_x = 2
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -6;
+	pixel_x = -3
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -4;
+	pixel_x = 5
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 4;
+	pixel_x = -3
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 1;
+	pixel_x = 10
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 1;
+	pixel_x = -7
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 13;
+	pixel_x = -8
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 14;
+	pixel_x = 2
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 12;
+	pixel_x = 10
+	},
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"zH" = (
+/obj/structure/flora/rock,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"zI" = (
+/obj/structure/stone_tile/block{
+	dir = 4;
+	pixel_x = -2
+	},
+/turf/open/lava/fake,
+/area/hilbertshotel)
+"zQ" = (
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"AD" = (
+/obj/structure/barricade/wooden{
+	icon = 'icons/obj/objects.dmi';
+	icon_state = "barrel";
+	desc = "A large wooden barrel. You can ferment fruits and such inside it, or just use it to hold liquid.";
+	pixel_y = 6;
+	pixel_x = -4
+	},
+/obj/structure/railing{
+	color = "#683d21";
+	dir = 10
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Bg" = (
+/obj/structure/stone_tile/block{
+	dir = 8
+	},
+/obj/structure/stone_tile/burnt,
+/obj/structure/table/wood/fancy,
+/obj/item/export/bottle/wine{
+	pixel_y = 18;
+	pixel_x = 2
+	},
+/obj/item/export/bottle/applejack{
+	pixel_x = -6;
+	pixel_y = 11
+	},
+/obj/item/export/bottle/champagne{
+	pixel_x = 5;
+	pixel_y = 6
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Bn" = (
+/obj/structure/chair/pew/left{
+	dir = 4
+	},
+/obj/structure/stone_tile/block,
+/obj/structure/stone_tile/block{
+	dir = 1
+	},
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"BI" = (
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 13;
+	pixel_x = -7
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 7;
+	pixel_x = 1
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"BK" = (
+/obj/structure/bed/pillow_large,
+/obj/structure/bed/pillow_large{
+	pixel_x = 16;
+	pixel_y = 12
+	},
+/obj/item/fancy_pillow{
+	pixel_x = -3;
+	pixel_y = 7
+	},
+/turf/open/floor/carpet/purple,
+/area/hilbertshotel)
+"Cb" = (
+/obj/structure/bed/pillow_large{
+	pixel_x = 16;
+	pixel_y = 12
+	},
+/obj/structure/bed/pillow_large,
+/obj/structure/bed/pillow_large{
+	pixel_y = 14;
+	pixel_x = -5
+	},
+/obj/item/fancy_pillow{
+	pixel_x = 11;
+	pixel_y = 9
+	},
+/turf/open/floor/mineral/plasma,
+/area/hilbertshotel)
+"Ce" = (
+/obj/structure/stone_tile/block{
+	dir = 4;
+	pixel_x = -2
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -7;
+	pixel_x = -7
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Cs" = (
+/obj/structure/table/wood,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Cv" = (
+/turf/closed/indestructible/riveted/boss,
+/area/hilbertshotel)
+"Dk" = (
+/obj/structure/stone_tile/block,
+/obj/structure/chair/pew/left{
+	dir = 8
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Dl" = (
+/obj/structure/stone_tile/block{
+	dir = 4;
+	pixel_x = -2
+	},
+/obj/structure/stone_tile/burnt{
+	dir = 8
+	},
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"Dz" = (
+/obj/structure/stone_tile/block,
+/obj/structure/flora/junglebush/c,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"DA" = (
+/obj/structure/stone_tile/burnt,
+/obj/structure/railing/corner{
+	dir = 1;
+	color = "#683d21"
+	},
+/obj/structure/flora/rock,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"DJ" = (
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -12;
+	pixel_x = 16
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"DL" = (
+/obj/structure/table/wood,
+/obj/item/dice/d6,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"DM" = (
+/obj/structure/pool/ladder{
+	pixel_x = -4;
+	invisibility = 60
+	},
+/obj/structure/pool/ladder{
+	dir = 1;
+	pixel_y = -24;
+	invisibility = 60
+	},
+/obj/structure/pool/ladder{
+	dir = 2;
+	pixel_y = 20;
+	invisibility = 60
+	},
+/turf/open/pool{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "cobble";
+	name = "hotwater"
+	},
+/area/hilbertshotel)
+"DQ" = (
+/obj/structure/stone_tile/slab,
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"DR" = (
+/obj/structure/stone_tile/block{
+	dir = 4;
+	pixel_x = -2
+	},
+/obj/structure/stone_tile/burnt{
+	dir = 8
+	},
+/obj/structure/stone_tile/burnt{
+	dir = 4
+	},
+/obj/structure/closet/cabinet{
+	anchored = 1
+	},
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"Es" = (
+/obj/structure/stone_tile/block,
+/obj/structure/stone_tile/block{
+	dir = 1
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 1;
+	pixel_x = 5
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 10;
+	pixel_x = 9
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -5;
+	pixel_x = -9
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -10;
+	pixel_x = 8
+	},
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"EZ" = (
+/obj/structure/flora/rock/pile{
+	icon_state = "basalt3"
+	},
+/obj/structure/spacevine,
+/turf/open/floor/plating/beach/water,
+/area/hilbertshotel)
+"Fc" = (
+/obj/structure/stone_tile/burnt{
+	dir = 1
+	},
+/obj/structure/stone_tile/surrounding_tile{
+	dir = 4
+	},
+/obj/structure/stone_tile/burnt{
+	dir = 8
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -5;
+	pixel_x = 11
+	},
+/turf/open/floor/carpet/purple,
+/area/hilbertshotel)
+"Fn" = (
+/obj/structure/stone_tile/block,
+/obj/structure/stone_tile/burnt{
+	dir = 4
+	},
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"FZ" = (
+/obj/structure/stone_tile/block{
+	dir = 8
+	},
+/obj/structure/stone_tile/burnt,
+/obj/structure/stone_tile/burnt{
+	dir = 1
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 3;
+	pixel_x = 4
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 6;
+	pixel_x = -8
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_x = -3
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -2;
+	pixel_x = 12
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -6;
+	pixel_x = 2
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -5;
+	pixel_x = -10
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -12;
+	pixel_x = -6
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -11;
+	pixel_x = 7
+	},
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"GQ" = (
+/obj/structure/chair/pew/right{
+	dir = 4
+	},
+/obj/structure/stone_tile/block,
+/obj/structure/stone_tile/block{
+	dir = 1
+	},
+/obj/item/storage/photo_album,
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"GS" = (
+/obj/structure/stone_tile/block{
+	dir = 4;
+	pixel_x = -2
+	},
+/obj/structure/stone_tile/burnt{
+	dir = 8
+	},
+/obj/structure/table/wood/fancy,
+/obj/item/reagent_containers/food/snacks/grown/grapes{
+	pixel_y = 8;
+	pixel_x = -4
+	},
+/obj/item/reagent_containers/food/snacks/cakeslice/vanilla_slice,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Hi" = (
+/turf/open/pool{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "cobble";
+	name = "hotwater"
+	},
+/area/hilbertshotel)
+"HR" = (
+/obj/structure/flora/rock/pile{
+	icon_state = "basalt3";
+	pixel_x = 4;
+	pixel_y = 10
+	},
+/obj/structure/flora/rock{
+	pixel_x = 3;
+	pixel_y = -1
+	},
+/obj/structure/flora/rock/pile{
+	icon_state = "basalt3";
+	pixel_x = -11
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"IR" = (
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin"
+	},
+/obj/effect/light_emitter{
+	set_cap = 0.5;
+	light_color = #FA9632;
+	set_luminosity = 4
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"IZ" = (
+/obj/structure/bed/pillow_large,
+/obj/structure/bed/pillow_large{
+	pixel_x = 16;
+	pixel_y = 12
+	},
+/obj/item/fancy_pillow{
+	pixel_y = -6;
+	pixel_x = 8
+	},
+/obj/structure/stone_tile/block,
+/turf/open/floor/carpet/purple,
+/area/hilbertshotel)
+"Jk" = (
+/obj/structure/stone_tile/block{
+	dir = 4;
+	pixel_x = -2
+	},
+/obj/structure/stone_tile/burnt{
+	dir = 4
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -7;
+	pixel_x = 13
+	},
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"Jv" = (
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 12;
+	pixel_x = -1
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -2;
+	pixel_x = 8
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_x = -12
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 9;
+	pixel_x = 9
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -5;
+	pixel_x = 14
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -12;
+	pixel_x = -7
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -9;
+	pixel_x = 6
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_x = -4
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 8;
+	pixel_x = -3
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 6;
+	pixel_x = 2
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -8;
+	pixel_x = -2
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Jz" = (
+/obj/structure/stone_tile/block{
+	dir = 1
+	},
+/obj/structure/stone_tile/burnt{
+	dir = 8
+	},
+/obj/structure/railing{
+	color = "#683d21"
+	},
+/obj/effect/turf_decal/siding/wideplating,
+/turf/open/lava/fake,
+/area/hilbertshotel)
+"JB" = (
+/obj/structure/stone_tile/block{
+	dir = 1
+	},
+/obj/structure/railing{
+	color = "#683d21"
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"JH" = (
+/obj/structure/spacevine,
+/obj/structure/flora/junglebush/large,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"JR" = (
+/obj/structure/stone_tile/slab,
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -7;
+	pixel_x = -7
+	},
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"KC" = (
+/obj/structure/pool/ladder{
+	dir = 8;
+	pixel_x = 4;
+	invisibility = 60
+	},
+/obj/structure/pool/ladder{
+	dir = 1;
+	pixel_y = -24;
+	invisibility = 60
+	},
+/turf/open/pool{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "cobble";
+	name = "hotwater"
+	},
+/area/hilbertshotel)
+"KH" = (
+/obj/structure/stone_tile/slab/cracked,
+/obj/effect/turf_decal/siding/wideplating{
+	dir = 6
+	},
+/obj/structure/railing{
+	color = "#683d21";
+	dir = 6
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 8;
+	pixel_x = -8
+	},
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"KK" = (
+/obj/machinery/light/floor{
+	invisibility = 60
+	},
+/obj/effect/light_emitter{
+	set_cap = 0.5;
+	light_color = #FA9632;
+	set_luminosity = 4
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Lb" = (
+/obj/structure/stone_tile/surrounding_tile{
+	dir = 4
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Lp" = (
+/obj/structure/stone_tile/block,
+/obj/structure/stone_tile/burnt{
+	dir = 1
+	},
+/obj/structure/railing{
+	color = "#683d21";
+	dir = 9
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"LA" = (
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 6;
+	pixel_x = 2
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 6;
+	pixel_x = 2
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 6;
+	pixel_x = 2
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 6;
+	pixel_x = 2
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"LJ" = (
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -7;
+	pixel_x = -7
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"LO" = (
+/obj/structure/stone_tile/block{
+	dir = 8
+	},
+/turf/open/lava/fake,
+/area/hilbertshotel)
+"LS" = (
+/obj/structure/spacevine{
+	pixel_y = -10;
+	layer = 50
+	},
+/turf/closed/indestructible/rock,
+/area/hilbertshotel)
+"Mb" = (
+/obj/structure/stone_tile/slab/cracked,
+/obj/effect/turf_decal/siding/wideplating{
+	dir = 10
+	},
+/obj/structure/railing{
+	color = "#683d21";
+	dir = 10
+	},
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"Me" = (
+/obj/effect/light_emitter/void,
+/turf/open/pool{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "cobble";
+	name = "hotwater"
+	},
+/area/hilbertshotel)
+"Mg" = (
+/turf/open/floor/plasteel/stairs/medium{
+	dir = 8;
+	color = "#2d221a"
+	},
+/area/hilbertshotel)
+"Mq" = (
+/obj/effect/light_emitter{
+	set_cap = 0.5;
+	light_color = #FA9632;
+	set_luminosity = 4
+	},
+/turf/open/floor/plasteel/stairs/medium{
+	color = "#2d221a"
+	},
+/area/hilbertshotel)
+"MK" = (
+/obj/structure/stone_tile/block{
+	dir = 8
+	},
+/obj/structure/stone_tile/block{
+	dir = 4;
+	pixel_x = -2
+	},
+/turf/open/lava/fake,
+/area/hilbertshotel)
+"Nm" = (
+/turf/open/space/bluespace,
+/area/hilbertshotel)
+"NF" = (
+/obj/structure/chair/pew/left{
+	dir = 4
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Oa" = (
+/obj/structure/stone_tile/block,
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -13;
+	pixel_x = -7
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 2;
+	pixel_x = 4
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -10;
+	pixel_x = -1
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -10;
+	pixel_x = 8
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -8;
+	pixel_x = -14
+	},
+/obj/machinery/vending/kink{
+	shut_up = 1;
+	layer = 2.95
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Ok" = (
+/obj/structure/stone_tile/block,
+/obj/structure/railing{
+	color = "#683d21";
+	dir = 1
+	},
+/obj/structure/flora/junglebush/c,
+/obj/structure/flora/rock/pile,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Or" = (
+/obj/structure/stone_tile/burnt{
+	dir = 1
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Ot" = (
+/obj/structure/bed/pillow_large,
+/obj/structure/bed/pillow_large{
+	pixel_x = 16;
+	pixel_y = 12
+	},
+/turf/open/floor/carpet/purple,
+/area/hilbertshotel)
+"OU" = (
+/obj/structure/curtain{
+	color = "#707070"
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -3;
+	pixel_x = -8
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Pf" = (
+/obj/structure/stone_tile/block/burnt{
+	dir = 4;
+	pixel_x = -2
+	},
+/obj/structure/barricade/wooden,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Pg" = (
+/obj/effect/light_emitter/void,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Pv" = (
+/obj/structure/stone_tile/block/burnt{
+	dir = 4;
+	pixel_x = -2
+	},
+/obj/structure/flora/rock/pile,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Px" = (
+/obj/effect/turf_decal/siding/yellow{
+	dir = 1
+	},
+/obj/structure/stone_tile/block{
+	dir = 4;
+	pixel_x = -2
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Pz" = (
+/obj/structure/flora/rock,
+/obj/structure/flora/rock/pile,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"PG" = (
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -6;
+	pixel_x = 7
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"PV" = (
+/obj/structure/stone_tile/burnt{
+	dir = 4
+	},
+/obj/structure/stone_tile/burnt{
+	dir = 1
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 12;
+	pixel_x = 5
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -6;
+	pixel_x = -11
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Qb" = (
+/obj/structure/stone_tile/block{
+	dir = 8
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"QA" = (
+/obj/machinery/smartfridge/drying_rack{
+	pixel_x = -17
+	},
+/obj/structure/flora/rock/pile{
+	icon_state = "basalt3";
+	pixel_x = 3
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"QH" = (
+/obj/structure/flora/rock{
+	pixel_x = 8;
+	pixel_y = 1
+	},
+/obj/structure/flora/rock/pile,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Rt" = (
+/obj/structure/stone_tile/block{
+	dir = 1
+	},
+/obj/structure/flora/rock/pile{
+	icon_state = "basalt3";
+	pixel_x = 1;
+	pixel_y = -1
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"RL" = (
+/obj/structure/stone_tile/block{
+	dir = 8
+	},
+/obj/structure/stone_tile/burnt{
+	dir = 1
+	},
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"RR" = (
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -1;
+	pixel_x = 13
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 12;
+	pixel_x = -10
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -10;
+	pixel_x = -10
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Sz" = (
+/obj/structure/stone_tile/slab,
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -7;
+	pixel_x = 7
+	},
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"SP" = (
+/obj/structure/stone_tile/block{
+	dir = 8
+	},
+/obj/structure/stone_tile/burnt,
+/obj/structure/stone_tile/burnt{
+	dir = 1
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 11;
+	pixel_x = 2
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 13;
+	pixel_x = 7
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 6;
+	pixel_x = 8
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 6;
+	pixel_x = -7
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 12;
+	pixel_x = -14
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -2;
+	pixel_x = 2
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -4;
+	pixel_x = -8
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 1;
+	pixel_x = -9
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -8
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -6;
+	pixel_x = 9
+	},
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"SW" = (
+/obj/structure/stone_tile/block{
+	dir = 1
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"SX" = (
+/obj/structure/chair/pew/right{
+	dir = 8
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Ts" = (
+/obj/effect/light_emitter{
+	set_cap = 0.5;
+	light_color = #FA9632;
+	set_luminosity = 4
+	},
+/obj/structure/stone_tile/block{
+	dir = 1
+	},
+/obj/structure/railing{
+	color = "#683d21"
+	},
+/obj/effect/turf_decal/siding/wideplating,
+/turf/open/lava/fake,
+/area/hilbertshotel)
+"TP" = (
+/obj/structure/barricade/wooden,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"TY" = (
+/obj/structure/stone_tile/burnt{
+	dir = 1
+	},
+/obj/structure/stone_tile/block{
+	dir = 8
+	},
+/obj/structure/stone_tile/burnt,
+/turf/open/lava/fake,
+/area/hilbertshotel)
+"Un" = (
+/obj/structure/flora/rock/pile{
+	icon_state = "basalt3";
+	pixel_y = -2;
+	pixel_x = -16
+	},
+/obj/structure/spacevine{
+	pixel_y = -16
+	},
+/turf/open/floor/grass/fakebasalt{
+	color = "#000000"
+	},
+/area/hilbertshotel)
+"Uo" = (
+/obj/structure/flora/junglebush/c,
+/obj/structure/flora/rock/pile,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"UJ" = (
+/obj/structure/flora/rock/pile{
+	icon_state = "basalt3";
+	pixel_y = 9;
+	pixel_x = 10
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"US" = (
+/obj/structure/flora/rock,
+/obj/structure/spacevine,
+/obj/structure/spacevine,
+/turf/open/floor/plating/beach/water,
+/area/hilbertshotel)
+"Ve" = (
+/obj/structure/barricade/wooden{
+	icon = 'icons/obj/objects.dmi';
+	icon_state = "barrel";
+	desc = "A large wooden barrel. You can ferment fruits and such inside it, or just use it to hold liquid.";
+	pixel_y = 6;
+	pixel_x = 5
+	},
+/obj/structure/barricade/wooden{
+	icon = 'icons/obj/objects.dmi';
+	icon_state = "barrel";
+	desc = "A large wooden barrel. You can ferment fruits and such inside it, or just use it to hold liquid.";
+	pixel_y = 6;
+	pixel_x = -15
+	},
+/obj/structure/railing{
+	color = "#683d21";
+	dir = 6
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Vj" = (
+/obj/structure/stone_tile/block{
+	dir = 4;
+	pixel_x = -2
+	},
+/obj/structure/table/wood/fancy,
+/obj/item/kirbyplants{
+	pixel_y = 16
+	},
+/obj/effect/light_emitter{
+	set_cap = 0.5;
+	light_color = #FA9632;
+	set_luminosity = 4
+	},
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"Vz" = (
+/obj/structure/flora/rock/pile{
+	icon_state = "basalt3";
+	pixel_x = 12;
+	pixel_y = 7
+	},
+/obj/machinery/jukebox{
+	req_one_access = null
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"VC" = (
+/obj/structure/chair/pew/right{
+	dir = 4
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"VD" = (
+/obj/structure/flora/junglebush/c,
+/obj/structure/railing/corner/end{
+	dir = 8;
+	color = "#683d21";
+	pixel_y = -28
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"VG" = (
+/obj/machinery/telecomms/relay/preset/auto,
+/turf/open/floor/catwalk_floor,
+/area/hilbertshotel)
+"VW" = (
+/obj/structure/stone_tile/block{
+	dir = 8
+	},
+/obj/structure/stone_tile/burnt,
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"VX" = (
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 14;
+	pixel_x = -7
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Wb" = (
+/obj/structure/anvil/obtainable/basic,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Wf" = (
+/obj/structure/spacevine,
+/obj/structure/flora/junglebush/b,
+/turf/open/floor/plating/beach/water,
+/area/hilbertshotel)
+"Wq" = (
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 9;
+	pixel_x = 9
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -1;
+	pixel_x = 6
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -16;
+	pixel_x = 3
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"WP" = (
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 6;
+	pixel_x = -7
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -1;
+	pixel_x = 2
+	},
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -9;
+	pixel_x = -7
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Xb" = (
+/obj/structure/stone_tile/block{
+	dir = 8
+	},
+/obj/structure/barricade/wooden,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Xx" = (
+/obj/structure/flora/rock/pile{
+	icon_state = "basalt3"
+	},
+/obj/structure/flora/rock/pile,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"XJ" = (
+/obj/structure/stone_tile/block,
+/obj/structure/railing{
+	color = "#683d21";
+	dir = 1
+	},
+/obj/structure/flora/junglebush/b,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"YG" = (
+/obj/structure/stone_tile/burnt,
+/obj/structure/stone_tile/block{
+	dir = 1
+	},
+/obj/structure/railing{
+	color = "#683d21"
+	},
+/obj/effect/turf_decal/siding/wideplating,
+/turf/open/lava/fake,
+/area/hilbertshotel)
+"YZ" = (
+/obj/structure/flora/rock/pile,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"Zn" = (
+/obj/structure/flora/rock/pile{
+	icon_state = "basalt3";
+	pixel_y = -3;
+	pixel_x = 14
+	},
+/obj/structure/flora/junglebush/large{
+	pixel_y = -6;
+	pixel_x = -30
+	},
+/obj/structure/flora/junglebush/c,
+/obj/structure/flora/rock/pile,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"ZA" = (
+/obj/effect/light_emitter{
+	set_cap = 0.5;
+	light_color = #FA9632;
+	set_luminosity = 4
+	},
+/obj/structure/stone_tile/slab,
+/turf/open/floor/mineral/gold,
+/area/hilbertshotel)
+"ZK" = (
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = -7;
+	pixel_x = -6
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"ZN" = (
+/obj/structure/flora/junglebush/large,
+/obj/structure/spacevine,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"ZR" = (
+/obj/structure/stone_tile/surrounding_tile{
+	dir = 4
+	},
+/obj/structure/flora/rock/pile,
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"ZU" = (
+/obj/structure/stone_tile/block{
+	dir = 1
+	},
+/obj/structure/stone_tile/burnt,
+/obj/structure/railing{
+	color = "#683d21"
+	},
+/obj/effect/turf_decal/siding/wideplating,
+/turf/open/lava/fake,
+/area/hilbertshotel)
+"ZY" = (
+/obj/structure/flora/rock/pile{
+	icon_state = "basalt3";
+	pixel_x = 12;
+	pixel_y = 7
+	},
+/obj/structure/flora/rock{
+	pixel_x = 5;
+	pixel_y = -3
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+"ZZ" = (
+/obj/structure/decorative{
+	icon = 'icons/obj/economy.dmi';
+	icon_state = "coin";
+	desc = "Shiny!";
+	color = "#edbf4a";
+	name = "coin";
+	pixel_y = 8;
+	pixel_x = 12
+	},
+/turf/open/floor/grass/fakebasalt,
+/area/hilbertshotel)
+
+(1,1,1) = {"
+Nm
+Cv
+Cv
+Cv
+Cv
+Cv
+Cv
+Cv
+Cv
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+kP
+ju
+ju
+ju
+Nm
+Nm
+Nm
+Nm
+Nm
+"}
+(2,1,1) = {"
+Nm
+Cv
+Cv
+Cv
+Cv
+Cs
+Cs
+zQ
+YZ
+Cv
+TP
+TP
+Cv
+ju
+ju
+ju
+ju
+yo
+PG
+zC
+Un
+ju
+Nm
+Nm
+Nm
+Nm
+Nm
+"}
+(3,1,1) = {"
+Nm
+Cv
+Cv
+zI
+YG
+li
+NF
+aJ
+zQ
+zQ
+VC
+NF
+zH
+ju
+ju
+rP
+Pv
+zQ
+qt
+Lb
+yV
+ju
+Nm
+Nm
+Nm
+Nm
+Nm
+"}
+(4,1,1) = {"
+Cv
+Cv
+Cv
+cf
+Ts
+tf
+ZZ
+zQ
+zQ
+qt
+zQ
+zQ
+QA
+ju
+Cv
+ba
+VX
+cI
+ZR
+ju
+ju
+ju
+Nm
+Nm
+Nm
+Nm
+Nm
+"}
+(5,1,1) = {"
+Cv
+Cv
+Cv
+LO
+Jz
+cC
+zQ
+zQ
+zQ
+zQ
+zQ
+zQ
+zQ
+PG
+wD
+zQ
+zQ
+SW
+ju
+ju
+ju
+ju
+Nm
+Nm
+Nm
+Nm
+Nm
+"}
+(6,1,1) = {"
+Cv
+Cv
+Cv
+Cv
+Cv
+Bg
+Qb
+Qb
+rG
+Wq
+zQ
+zQ
+zQ
+cg
+OU
+KK
+zQ
+Rt
+ju
+ju
+ju
+ju
+Nm
+Nm
+Nm
+Nm
+Nm
+"}
+(7,1,1) = {"
+Cv
+Cv
+cX
+zF
+Cv
+Cv
+Mg
+sV
+Oa
+Jv
+zQ
+zQ
+zQ
+zQ
+Cv
+wD
+wD
+Cv
+ju
+ju
+ju
+ju
+Nm
+Nm
+Nm
+Nm
+Nm
+"}
+(8,1,1) = {"
+Cv
+Cv
+IZ
+ck
+DR
+pQ
+ZK
+Cv
+nm
+BI
+zQ
+RL
+fn
+VW
+zQ
+zQ
+zQ
+zQ
+ju
+ju
+ju
+ju
+Nm
+Nm
+Nm
+Nm
+Nm
+"}
+(9,1,1) = {"
+Cv
+Cv
+jh
+BK
+mT
+RR
+WP
+SW
+oa
+zQ
+hi
+wi
+DQ
+Mb
+Fn
+pT
+sj
+ju
+Cv
+ju
+ju
+ju
+Nm
+Nm
+Nm
+Nm
+Nm
+"}
+(10,1,1) = {"
+Cv
+Cv
+aI
+as
+pZ
+an
+sN
+PV
+Mq
+zQ
+nA
+Sz
+ZA
+DQ
+oa
+rE
+cV
+zQ
+TP
+ju
+ju
+ju
+Nm
+Nm
+Nm
+Nm
+Nm
+"}
+(11,1,1) = {"
+Cv
+Cv
+aI
+Ot
+Fc
+LA
+cB
+SW
+oa
+zQ
+ie
+oW
+DQ
+KH
+ov
+MK
+TY
+tv
+qf
+ju
+ju
+ju
+Nm
+Nm
+Nm
+Nm
+Nm
+"}
+(12,1,1) = {"
+Cv
+Cv
+dD
+Es
+dp
+pQ
+zQ
+Cv
+fQ
+zQ
+zQ
+Jk
+cj
+Dl
+zQ
+zQ
+zQ
+SW
+Cv
+ju
+ju
+ju
+Nm
+Nm
+Nm
+Nm
+Nm
+"}
+(13,1,1) = {"
+Cv
+Cv
+FZ
+SP
+Cv
+Cv
+cj
+sV
+sJ
+zQ
+zQ
+Qb
+JR
+Qb
+Qb
+rG
+LJ
+Or
+dl
+ju
+ju
+ju
+Nm
+Nm
+Nm
+Nm
+Nm
+"}
+(14,1,1) = {"
+Cv
+Cv
+Cv
+Cv
+Cv
+GS
+fg
+fg
+ba
+cI
+gJ
+Cv
+Vj
+fg
+Cv
+Cv
+rG
+cI
+Xb
+ju
+ju
+ju
+Nm
+Nm
+Nm
+Nm
+Nm
+"}
+(15,1,1) = {"
+Cv
+Cv
+Cv
+zI
+ZU
+cC
+zQ
+zQ
+DJ
+SW
+Cv
+fg
+zQ
+zQ
+Ce
+DQ
+il
+SW
+Cv
+ju
+ju
+ju
+Nm
+Nm
+Nm
+Nm
+Nm
+"}
+(16,1,1) = {"
+Cv
+Cv
+Cv
+cf
+Ts
+kw
+zQ
+zQ
+IR
+ia
+zQ
+zQ
+DM
+zQ
+eO
+DQ
+cC
+Or
+Pf
+ju
+ju
+ju
+Nm
+Nm
+Nm
+Nm
+Nm
+"}
+(17,1,1) = {"
+Nm
+Cv
+Cv
+LO
+Jz
+Dk
+SX
+zQ
+zQ
+pe
+yb
+yb
+Hi
+yb
+nN
+Cv
+ba
+cI
+Xb
+ju
+ju
+ju
+Nm
+Nm
+Nm
+Nm
+Nm
+"}
+(18,1,1) = {"
+Nm
+Cv
+Cv
+Cv
+Cv
+nO
+iH
+Wb
+gv
+hj
+Hi
+Hi
+Hi
+Hi
+lY
+Cv
+zQ
+SW
+Cv
+ju
+ju
+ju
+Nm
+Nm
+Nm
+Nm
+Nm
+"}
+(19,1,1) = {"
+Nm
+Cv
+Cv
+Cv
+Cv
+Cv
+Cv
+AD
+JB
+Hi
+Hi
+Me
+Hi
+Hi
+cR
+Cv
+ju
+ju
+ju
+ju
+ju
+VG
+Nm
+Nm
+Nm
+Nm
+Nm
+"}
+(20,1,1) = {"
+Nm
+ju
+ju
+Cv
+Cv
+Cv
+Cv
+Ve
+JB
+Hi
+Hi
+ab
+Hi
+Hi
+oy
+Cv
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+"}
+(21,1,1) = {"
+Nm
+ju
+ju
+ju
+ju
+ju
+ju
+dE
+JB
+Hi
+Hi
+Hi
+Hi
+Hi
+iA
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+"}
+(22,1,1) = {"
+Nm
+ju
+ju
+ju
+rT
+QH
+be
+Dz
+JB
+Hi
+Hi
+Hi
+Hi
+Hi
+iA
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+tU
+ju
+ju
+ju
+"}
+(23,1,1) = {"
+Nm
+ju
+ju
+Uo
+Zn
+ju
+ju
+rd
+JB
+Hi
+Hi
+Me
+Hi
+Lp
+DA
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+tU
+tU
+ju
+ju
+"}
+(24,1,1) = {"
+Nm
+ju
+ju
+ju
+ju
+ju
+LS
+Vz
+rN
+xi
+Hi
+Hi
+Hi
+XJ
+HR
+ju
+ju
+ju
+Cv
+Cv
+Cv
+ju
+ju
+ju
+pJ
+ju
+ju
+"}
+(25,1,1) = {"
+Nm
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+cC
+rN
+nb
+Hi
+Hi
+Ok
+ju
+ju
+ju
+Cv
+Cv
+Cv
+Cv
+ju
+ju
+bR
+EZ
+ju
+ju
+"}
+(26,1,1) = {"
+Nm
+Nm
+Nm
+Nm
+Nm
+ju
+ju
+ju
+ZY
+zQ
+JB
+yJ
+KC
+mC
+ZN
+ju
+ju
+Cv
+Cv
+GQ
+Bn
+ju
+bR
+pJ
+US
+ju
+ju
+"}
+(27,1,1) = {"
+Nm
+Nm
+Nm
+Nm
+Nm
+Nm
+ju
+ju
+ju
+UJ
+VD
+zy
+pJ
+Wf
+tU
+Xx
+ju
+et
+Cb
+Px
+fg
+DL
+tU
+tU
+ju
+ju
+ju
+"}
+(28,1,1) = {"
+Nm
+Nm
+Nm
+Nm
+Nm
+Nm
+ju
+ju
+ju
+ju
+ju
+mP
+JH
+tU
+tU
+tU
+ju
+ju
+pm
+tJ
+Pg
+tU
+tU
+ju
+ju
+ju
+ju
+"}
+(29,1,1) = {"
+Nm
+Nm
+Nm
+Nm
+Nm
+Nm
+Nm
+ju
+ju
+ju
+ju
+ju
+ju
+zQ
+yp
+tU
+tU
+tU
+tU
+tU
+tU
+tU
+yp
+ju
+ju
+ju
+ju
+"}
+(30,1,1) = {"
+Nm
+Nm
+Nm
+Nm
+Nm
+Nm
+Nm
+Nm
+Nm
+ju
+ju
+ju
+ju
+ju
+ju
+Pz
+pN
+tU
+tU
+tU
+yp
+qH
+ju
+ju
+ju
+Nm
+Nm
+"}
+(31,1,1) = {"
+Nm
+Nm
+Nm
+Nm
+Nm
+Nm
+Nm
+Nm
+Nm
+Nm
+Nm
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+Nm
+Nm
+"}
+(32,1,1) = {"
+Nm
+Nm
+Nm
+Nm
+Nm
+Nm
+Nm
+Nm
+Nm
+Nm
+Nm
+Nm
+Nm
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+ju
+Nm
+Nm
+Nm
+Nm
+"}

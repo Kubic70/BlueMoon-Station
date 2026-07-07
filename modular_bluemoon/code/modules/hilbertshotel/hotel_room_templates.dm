@@ -28,6 +28,13 @@
 	mappath = '_maps/templates/hilbertshotel/apartment.dmm'
 	category = GHC_APARTMENT
 
+/datum/map_template/hilbertshotel/apartment/large
+	name = "Dragon`s Lair"
+	mappath = '_maps/templates/hilbertshotel/apartment_dragonslair.dmm'
+	landingZoneRelativeX = 1
+	landingZoneRelativeY = 9
+	category = GHC_MISC
+
 /datum/map_template/hilbertshotel/apartment/one
 	name = "Apartment-1"
 	mappath = '_maps/templates/hilbertshotel/apartment_1.dmm'
