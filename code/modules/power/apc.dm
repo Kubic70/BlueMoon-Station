@@ -714,6 +714,10 @@
 				to_chat(user, "<span class='notice'>You add cables to the APC frame.</span>")
 				make_terminal()
 				terminal.connect_to_network()
+	else if(istype(W, /obj/item/pai_cable))
+		var/obj/item/pai_cable/cable = W
+		cable.plugin(src, user)
+		return TRUE
 	else if (istype(W, /obj/item/electronics/apc) && opened)
 		if (has_electronics)
 			to_chat(user, "<span class='warning'>There is already a board inside the [src]!</span>")
@@ -1064,8 +1068,9 @@
 
 
 /obj/machinery/power/apc/proc/get_malf_status(mob/living/silicon/ai/malf)
-	if(istype(malf) && malf.malf_picker)
-		if(malfai == (malf.parent || malf))
+	var/mob/living/silicon/ai/base_malf = malf?.parent || malf
+	if(istype(malf) && istype(base_malf) && base_malf.malf_picker)
+		if(malfai == base_malf)
 			if(occupier == malf)
 				return 3 // 3 = User is shunted in this APC
 			else if(istype(malf.loc, /obj/machinery/power/apc))
@@ -1314,11 +1319,11 @@
 	if(!occupier)
 		return
 	if(occupier.parent && occupier.parent.stat != DEAD)
+		remove_verb(occupier, /mob/living/silicon/ai/proc/corereturn)
 		occupier.mind.transfer_to(occupier.parent)
 		occupier.parent.shunted = 0
 		occupier.parent.setOxyLoss(occupier.getOxyLoss())
 		occupier.parent.cancel_camera()
-		remove_verb(occupier.parent, /mob/living/silicon/ai/proc/corereturn)
 		qdel(occupier)
 	else
 		to_chat(occupier, "<span class='danger'>Primary core damaged, unable to return core processes.</span>")
