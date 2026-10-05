@@ -179,6 +179,7 @@
 				/obj/item/love_offer = 32,
 				/obj/item/fancy_pillow = 32,
 				/obj/item/storage/daki = 4,
+				/obj/item/toy/cards/deck/love_cards/orgasm = 3,
 				/obj/item/clothing/underwear/briefs/panties/maebari = 3,
 				/obj/item/clothing/underwear/briefs/panties/maebari/maebari_heart = 3,
 				/obj/item/clothing/underwear/briefs/panties/maebari/maebari_sheer = 3,

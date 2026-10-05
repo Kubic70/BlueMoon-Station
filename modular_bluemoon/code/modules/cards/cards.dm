@@ -35,6 +35,21 @@
 	icon_state = "deck_actions_full"
 	deckstyle = "actions"
 
+// вдохновлено работами AmazInky
+/obj/item/toy/cards/deck/love_cards/orgasm
+	name = "Deck of Orgasms"
+	desc = "Колода бросающая вызов твоей выносливости."
+	icon_state = "deck_kinks_full"
+	deckstyle = "kinks"
+
+/obj/item/toy/cards/deck/love_cards/orgasm/populate_deck()
+	var/list/quote = strings("pack_challenge.json", "quote")
+	var/list/pose = strings("pack_challenge.json", "pose")
+	for(var/p in pose)
+		for(var/q in quote)
+			cards += "Поза: " + p + "\n" + "Квота: " + q
+	icon_state = "deck_kinks_full"
+
 /obj/item/toy/cards/deck/love_cards/blanks
 	name = "Deck of Blanks"
 	desc = "Колода с пустыми картами."
