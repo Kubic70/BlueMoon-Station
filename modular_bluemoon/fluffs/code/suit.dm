@@ -273,6 +273,19 @@
 	body_parts_covered = CHEST
 	mutantrace_variation = STYLE_DIGITIGRADE|STYLE_NO_ANTHRO_ICON
 
+/obj/item/clothing/suit/donator/bm/opssrtarmor
+	name = "OPS-SRT Armor"
+	desc = "Plate carrier system"
+	icon_state = "opssrtarmor"
+	item_state = "opssrtarmor"
+	icon = 'modular_bluemoon/icons/obj/clothing/suits/armor.dmi'
+	mob_overlay_icon = 'modular_bluemoon/icons/mob/clothing/suits/armor.dmi'
+	lefthand_file = 'modular_bluemoon/icons/mob/inhands/clothing_lefthand.dmi'
+	righthand_file = 'modular_bluemoon/icons/mob/inhands/clothing_righthand.dmi'
+	blood_overlay_type = "armor"
+	body_parts_covered = CHEST
+	mutantrace_variation = STYLE_DIGITIGRADE|STYLE_NO_ANTHRO_ICON
+
 /obj/item/clothing/suit/armor/hos/dread_armor
 	name = "Броня Судьи"
 	desc = "Стандартный  бронежилет судьи из Мега-Города Солнечной Федерации. Броня покрывает плечи и большую часть тела. На наплечниках красуются орлы из скорее всего золота как и на левой части груди с ремнём где красуется значок с потертым именем Дредд. Вам кажется это имя знакомым. Эта броня так и веет чуством что вас защищает Закон."
@@ -1231,3 +1244,20 @@
 	icon_state = "sec_armor_kit"
 	product = /obj/item/clothing/suit/armor/vest/alt/tau
 	fromitem = list(/obj/item/clothing/suit/armor/vest/alt)
+
+/obj/item/clothing/suit/donator/bm/honorable_coat
+	name = "Honorable coat"
+	desc = "Old honoroble coat, pretty expensive"
+	icon_state = "honorable_coat"
+	item_state = "honorable_coat"
+	icon = 'modular_bluemoon/fluffs/icons/obj/clothing/suit.dmi'
+	mob_overlay_icon = 'modular_bluemoon/fluffs/icons/mob/clothing/suit.dmi'
+	mutantrace_variation = STYLE_DIGITIGRADE | STYLE_NO_ANTHRO_ICON
+
+/obj/item/clothing/suit/donator/bm/kladmenuwu_jacket
+	name = "Jacket"
+	icon_state = "kladmen_jacket"
+	lefthand_file = 'modular_bluemoon/fluffs/icons/mob/inhands/clothing_left.dmi'
+	righthand_file = 'modular_bluemoon/fluffs/icons/mob/inhands/clothing_right.dmi'
+	anthro_mob_worn_overlay = 'modular_bluemoon/fluffs/icons/mob/clothing/suit_digi.dmi'
+	mutantrace_variation = STYLE_DIGITIGRADE | STYLE_NO_ANTHRO_ICON

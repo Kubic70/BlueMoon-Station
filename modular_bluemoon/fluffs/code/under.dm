@@ -837,6 +837,32 @@
 	. = ..()
 	AddElement(/datum/element/polychromic, list("#FFFFFF", "#dbdbdb", "#dbdbdb", "#dbdbdb", "#dbdbdb"), 5)
 
+/obj/item/clothing/under/donator/opssrtclothes
+	name = "OPS-SRT clothes"
+	icon_state = "opssrtclothes"
+	item_state = "opssrtclothes"
+	icon = 'modular_bluemoon/icons/obj/clothing/uniforms.dmi'
+	mob_overlay_icon = 'modular_bluemoon/icons/mob/clothing/uniforms.dmi'
+	anthro_mob_worn_overlay = 'modular_bluemoon/icons/mob/clothing/uniforms_digi.dmi'
+	lefthand_file = 'modular_bluemoon/icons/mob/inhands/clothing_lefthand.dmi'
+	righthand_file = 'modular_bluemoon/icons/mob/inhands/clothing_righthand.dmi'
+	mutantrace_variation = STYLE_DIGITIGRADE
+
+/obj/item/clothing/under/donator/saibasan
+	name = "Cybersun Surplus"
+	icon_state = "saibasan"
+	item_state = "saibasan"
+	icon = 'modular_bluemoon/icons/obj/clothing/uniforms.dmi'
+	mob_overlay_icon = 'modular_bluemoon/icons/mob/clothing/uniforms.dmi'
+	lefthand_file = 'modular_bluemoon/icons/mob/inhands/clothing_lefthand.dmi'
+	righthand_file = 'modular_bluemoon/icons/mob/inhands/clothing_righthand.dmi'
+	mutantrace_variation = STYLE_DIGITIGRADE|STYLE_NO_ANTHRO_ICON
+	var/list/poly_colors = list("#FFFFFF", "#dbdbdb", "#dbdbdb",)
+
+/obj/item/clothing/under/donator/saibasan/ComponentInitialize()
+	. = ..()
+	AddElement(/datum/element/polychromic, list("#FFFFFF", "#dbdbdb", "#dbdbdb"), 3)
+
 /obj/item/clothing/under/poly_unia
 	name = "Poly Pants"
 	desc = "Brought by Gosei, too lazy for digi version, suck it Catcrins!"
@@ -1193,4 +1219,13 @@
 	anthro_mob_worn_overlay = 'modular_bluemoon/fluffs/icons/mob/clothing/under_digi.dmi'
 	mutantrace_variation = STYLE_DIGITIGRADE
 
+	can_adjust = FALSE
+
+/obj/item/clothing/under/donator/bm/mall_cop_chic
+	name = "Mall Cop Chic"
+	desc = "Pants from a secondhand shop that someone resewed, added straps from an old backpack, and called it 'style.' Someone clearly wanted to look like an elite mercenary, but it turned out like a shopping mall security guard. They cover your ass. Thx for that."
+	icon_state = "mall_cop_chic"
+	item_state = "mall_cop_chic"
+	icon = 'modular_bluemoon/fluffs/icons/obj/clothing/under.dmi'
+	mob_overlay_icon = 'modular_bluemoon/fluffs/icons/mob/clothing/under.dmi'
 	can_adjust = FALSE
